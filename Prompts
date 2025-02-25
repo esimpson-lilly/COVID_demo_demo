@@ -3,18 +3,16 @@ Start by setting up a new python venv by typing python in the top search bar and
 
 Go to copilot chat
 
-"create a script called main.py that follows good practices for python structure"
+"create the empty scaffold for a python script script called main.py that follows good practices for python structure"
 
 add the data files to the chat
-"modify main.py to parse the files covid-count-per-zip-all.csv and vaccinations-by-zip-with-population.csv"
+"modify main.py to parse the file vaccinations-by-zip-with-population.csv"
 make sure to "pip install" any required libraries it chooses to use
 save the file before running it
 
-go to file explorer, select main.py, the data files and "example_from_stack_of.py"
-"modify main.py to plot fully vaccinated percentage by zip code using example2_from_stack_of.py as a reference"
+go to file explorer, select main.py, the data file, thie indiana zip code JSON and "example_from_stack_of.py"
+"modify main.py to plot fully vaccinated percentage by zip code using example_from_stack_of.py as a reference"
 
-encountered a data type error, so I asked for help
-in copilot chat
-"how do i convert a series to an int in python"
-
+encountered a a couple errors, so I asked for help in copilot chat
+"how do i convert to an interger in python"
 "add code that replaces all "Suppressed" values in vaccination_data with 0"
