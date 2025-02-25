@@ -9,3 +9,12 @@ add the data files to the chat
 "modify main.py to parse the files covid-count-per-zip-all.csv and vaccinations-by-zip-with-population.csv"
 make sure to "pip install" any required libraries it chooses to use
 save the file before running it
+
+go to file explorer, select main.py, the data files and "example_from_stack_of.py"
+"modify main.py to plot fully vaccinated percentage by zip code using example2_from_stack_of.py as a reference"
+
+encountered a data type error, so I asked for help
+in copilot chat
+"how do i convert a series to an int in python"
+
+"add code that replaces all "Suppressed" values in vaccination_data with 0"
