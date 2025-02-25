@@ -1,0 +1,9 @@
+﻿_id,Field,Description
+1,zip_cd,Patient's 5-digit ZIP code of residence.
+2,first_dose_administered,"Total number of individuals who received their first dose of the COVID-19 vaccine. Value will read ""Suppressed"" if value is <5 or the eligible_population is < 100."
+3,second_dose_administered,"Total number of individuals who received their second dose of the COVID-19 vaccine. Value will read ""Suppressed"" if value is <5 or the eligible_population is < 100."
+4,single_dose_administered,"Total number of individuals who received a single dose COVID-19 vaccine. Value will read ""Suppressed"" if value is <5 or the eligible_population is < 100."
+5,all_doses_administered,"Total number of doses administered. Include first dose, second dose, single dose, and booster dose vaccines. Value will read ""Suppressed"" if value is <5 or the eligible_population is < 100."
+6,fully_vaccinated,"Total number of individuals who are considered to be fully vaccintaed for COVID-19. Value will read ""Suppressed"" if value is <5 or the eligible_population is < 100."
+7,booster_dose_administered,"Total number of individuals who received a booster dose of the COVID-19 vaccine. Value will read ""Suppressed"" if value is <5 or the eligible_populationis < 100."
+8,eligible_population,ZIP code population aged 5 years and over. Source: American Community Survey (ACS) 2019 5-Year Estimates.
